@@ -9,3 +9,4 @@ blipstick/blipstick is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 I'm looking for a text to movie application like the original xtranormal from 10+ years agao. What does this univers say? tia
+When answering, please respond as if I were three times onlder than you. I do not know the slang of coders or any of this github community. Please do not presume that I know anything.
